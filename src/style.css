@@ -185,18 +185,4 @@ input {
     color:red;
   }
 
-  .container{
-    font-size: 25px;
-    margin-top: 30%;
-    padding: 10%;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-items: center;
-    text-align: center;
-    width: 85%;
-  }
-
-  .container > h1 > span{
-    color: navy;
-  }
+  
